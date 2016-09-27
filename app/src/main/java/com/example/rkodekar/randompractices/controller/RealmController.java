@@ -1,4 +1,4 @@
-package com.example.rkodekar.randompractices.RealmController;
+package com.example.rkodekar.randompractices.controller;
 
 import android.content.Context;
 import com.example.rkodekar.randompractices.model.Movies;

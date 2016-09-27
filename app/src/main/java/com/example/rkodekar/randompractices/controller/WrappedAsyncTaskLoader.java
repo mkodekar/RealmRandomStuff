@@ -1,4 +1,4 @@
-package com.example.rkodekar.randompractices.RealmController;
+package com.example.rkodekar.randompractices.controller;
 
 import android.content.AsyncTaskLoader;
 import android.content.Context;
